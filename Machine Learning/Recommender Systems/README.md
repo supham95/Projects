@@ -12,7 +12,7 @@ Project này sẽ xây dựng các loại Hệ Thống Đề Xuất khác nhau c
 3. Dựa vào lịch sử đánh giá của người dùng về các bộ phim thông qua phương pháp Lọc Cộng Tác ***`(collaborative filtering)`***, cụ thể hơn sẽ sử dụng một phương pháp khác phục một số nhược điểm của Lọc Cộng Tác là Matrix Factorization.
 
 ## How to Install and Run the Project
-1. Tải các tệp từ phần Tài nguyên về kho lưu trữ của bạn (driver hoặc trên máy tính).
+1. Tải các tệp liên quan về kho lưu trữ của bạn (driver hoặc trên máy tính).
 
 2. Bạn mở tệp notebook bằng Jupyter Notebook, Google Colab hoặc bất cứ môi trường nào để có thể chạy tệp notebook.
 
