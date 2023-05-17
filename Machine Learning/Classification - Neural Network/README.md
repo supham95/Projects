@@ -6,7 +6,7 @@ Pima là một nhóm người Mỹ bản địa sống ở Arizona. Nhờ yếu 
 Project này sẽ xây dựng mô hình phân loại để dự đoán khả năng mắc bệnh tiểu đường loại 2 tại Arizona.
 
 ## How to Install and Run the Project
-1. Tải các tệp từ phần Tài nguyên về kho lưu trữ của bạn (driver hoặc trên máy tính).
+1. Tải các tệp liên quan về kho lưu trữ của bạn (driver hoặc trên máy tính).
 
 2. Bạn mở tệp notebook bằng Jupyter Notebook, Google Colab hoặc bất cứ môi trường nào để có thể chạy tệp notebook.
 
