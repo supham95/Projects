@@ -1,7 +1,7 @@
 # Predicting the likelihood of developing type 2 diabetes in Arizona
 
 ## Project Description
-Pima là một nhóm người Mỹ bản địa sống ở Arizona. Nhờ yếu tố di truyền mà nhóm người này có thể tồn tại bình thường với chế độ ăn ít carbohydrat trong nhiều năm. Trong những năm gần đây, sự thay đổi đột ngột từ cây nông nghiệp truyền thống sang thực phẩm chế biến sẵn, cùng với việc giảm các hoạt động thể chất, đã khiến họ có tỷ lệ mắc bệnh tiểu đường loại 2 tăng cao. Và vì lý do này, họ trở thành đối tượng của nhiều cuộc nghiên cứu.
+Pima là một nhóm người Mỹ bản địa sống ở Arizona. Nhờ yếu tố di truyền mà nhóm người này có thể tồn tại bình thường với chế độ ăn ít carbohydrate trong nhiều năm. Trong những năm gần đây, sự thay đổi đột ngột từ cây nông nghiệp truyền thống sang thực phẩm chế biến sẵn, cùng với việc giảm các hoạt động thể chất, đã khiến họ có tỷ lệ mắc bệnh tiểu đường loại 2 tăng cao. Và vì lý do này, họ trở thành đối tượng của nhiều cuộc nghiên cứu.
 
 Project này sẽ xây dựng mô hình phân loại để dự đoán khả năng mắc bệnh tiểu đường loại 2 tại Arizona.
 
