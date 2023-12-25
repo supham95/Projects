@@ -1,6 +1,14 @@
 # Projects
 The projects I have completed during my data science certification training at Funix center
 
+## Deep Learning
+### Classify toxic comments (10/2023)
+* Build a classification system for text sentences.
+* Tool: pandas, numpy, matplotlib, seaborn, surprise, sklearn, tensorflow
+### Classify faces wearing masks (08/2023)
+* Classify whether a person in a photo or camera is wearing a mask or not.
+* Tool: numpy, matplotlib, tensorflow, sklearn
+
 ## Machine Learning
 ### Movie recommendation (05/2023)
 * Build different types of movie recommender systems for users: Demographic Filtering, Content-based Filtering, Collaborative Filtering (Matrix Factorization).
