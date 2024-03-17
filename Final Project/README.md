@@ -1,41 +1,40 @@
-# ĐỒ ÁN CUỐI KHÓA KHOA HỌC DỮ LIỆU - DSP305
-# DỰ ĐOÁN LƯỢNG KHÁCH DU LỊCH
+# FINAL PROJECT REPORT - DATA SCIENCE
+# PREDICTING TOURIST ARRIVALS
 
-## Giới thiệu
-* Đồ án được lấy từ một cuộc thi trên kaggle, yêu cầu xây dựng mô hình dự đoán lượng khách du lịch để cung cấp thông tin chính xác về nhu cầu du lịch trong tương lai của Nhật Bản,
-giúp các doanh nghiệp và cơ quan liên quan đưa ra các quyết định kinh doanh và phát triển phù hợp, góp phần thúc đẩy sự phát triển của ngành du lịch.
-* [Chi tiết cuộc thi](https://www.kaggle.com/competitions/prediction-of-tourist-arrivals/overview)
+## Project Description
+* This project, inspired by a Kaggle competition, aims to develop a tourist arrival prediction model. The goal is to provide precise insights into Japan's future tourist demand, enabling businesses and relevant organizations to make informed business and development decisions, ultimately contributing to the industry's growth.
+* [Details](https://www.kaggle.com/competitions/prediction-of-tourist-arrivals/overview)
 
-## Chỉ số đánh giá
-* Sai số bình phương trung bình gốc – RMSE (theo quy định của cuộc thi trên kaggle)
+## Evaluation Criteria
+* RMSE (Root Mean Square Error): the primary metric used in the Kaggle competition to assess the accuracy of prediction models.
 
-## Điều kiện tiên quyết
-*Trước khi tiếp tục, hãy đảm bảo các yêu cầu sau:*
-* Ngôn ngữ lập trình: Python
+## Technical stack
+*Before proceeding, please ensure you have the following:*
+* Programming Language: Python
 * Library/Package/Framework:
-  + Xử lý dữ liệu: pandas, numpy, datetime, jpholiday
-  + Thống kê và phân tích dữ liệu: numpy, sklearn
-  + Học máy: sklearn, keras, optuna, lightgbm, xgboost, catboost
-  + Vẽ đồ thị: matplotlib, seaborn
+  + Data Preprocessing and Manipulation: pandas, numpy, datetime, jpholiday
+  + Statistics and Data Analysis: numpy, sklearn
+  + Machine Learning: sklearn, keras, optuna, lightgbm, xgboost, catboost
+  + Data Visualization: matplotlib, seaborn
 
-## Thuật toán:
-* Áp dụng thuật toán học máy Gradient Boosting, 3 framework:
+## Algorithm
+* Evaluate the performance of Gradient Boosting using three popular frameworks:
   + [LightGBM](https://lightgbm.readthedocs.io/en/stable/)
   + [XGBoost](https://xgboost.readthedocs.io/en/stable/)
   + [CatBoost](https://catboost.ai/)
 
-## Cấu trúc thư mục
-* Data: Lưu trữ dữ liệu thô
-* Final_project.ipynb: mã nguồn (source code)
-* Slide.pdf: Báo cáo đồ án (file PDF)
+## Folder Structure
+* Data: Stores raw data
+* Final_project.ipynb: Source code
+* Slide.pdf: Project report (PDF file)
 * README.md
 
-## Cách sử dụng
-1. Cài đặt các thư viện cần thiết
-2. Chạy file Final_project.ipynb
-3. Xem Slide.pptx để biết thêm chi tiết về phân tích dữ liệu và xây dựng mô hình
+## Usage
+1. Install the required libraries
+2. Run the Final_project.ipynb file
+3. Refer to Slide.pptx for detailed information on data analysis and model building
 
-## Tài liệu tham khảo
+## References
 * LightGBM Website. [Welcome to LightGBM’s documentation!](https://lightgbm.readthedocs.io/en/stable/)
 * XGBoost Website. [XGBoost Documentation](https://xgboost.readthedocs.io/en/stable/)
 * CatBoost Website. [CatBoost Documentation](https://catboost.ai/en/docs/)
@@ -46,6 +45,6 @@ giúp các doanh nghiệp và cơ quan liên quan đưa ra các quyết định 
 * Pham Minh Hoang (2020). [Ensemble learning và các biến thể](https://viblo.asia/p/ensemble-learning-va-cac-bien-the-p1-WAyK80AkKxX)
 * Brain John (2023). [When to Choose CatBoost Over XGBoost or LightGBM](https://neptune.ai/blog/when-to-choose-catboost-over-xgboost-or-lightgbm)
 
-## Liên hệ
-* *Pham Cong Su*
-* *Email: supcfx16803@funix.edu.vn / phamcongsu95@gmail.com*
+## Contact
+* *Mr. Pham Cong Su*
+* *Email: phamcongsu95@gmail.com*
