@@ -1,9 +1,9 @@
 # Projects
-The projects I have completed during my data science certification training at Funix center
+The projects I have completed during my data science program at Funix center
 
 ## Final Project
 ### Prediction of Tourist Arrivals (12/2023)
-* Build a model to predict the number of tourists to provide accurate informa'on about future tourism demand.
+* Build a model to predict the number of tourists to provide accurate information about future tourism demand.
 * Tool: pandas, numpy, matplotlib, seaborn, sklearn, date'me, optuna, lightgbm, xgboost, catboost.
 
 ## Deep Learning
